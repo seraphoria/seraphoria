@@ -4,4 +4,4 @@
  
 <div id="header" align="center">
 
-r[entry](https://rentry.co/4lovelution) ㅤㅤㅤㅤㅤ𝄞 ㅤㅤㅤㅤㅤa[tabook](https://4lovelution.atabook.org)
+r[entry](https://rentry.co/4lovelution) ㅤㅤㅤㅤㅤ[𝄞](https://open.spotify.com/user/31titnsabuuzqvisjvzneqdutyra?si=09c09edbdde4461f)ㅤㅤㅤㅤㅤa[tabook](https://4lovelution.atabook.org)
