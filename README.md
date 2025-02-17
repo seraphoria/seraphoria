@@ -16,4 +16,4 @@
  
 <div id="header" align="center">
 
-꒰ა  ㅤㅤㅤㅤr[entry](https://rentry.co/ningninq) ㅤㅤㅤㅤㅤ<img src="https://files.catbox.moe/rj8zvp.gif">ㅤㅤㅤㅤㅤa[tabook](https://loonatic.atabook.org) ㅤㅤㅤㅤ໒꒱
+꒰ა  ㅤㅤㅤㅤr[entry](https://rentry.co/kim-min-jeong)ㅤㅤㅤㅤㅤ<img src="https://files.catbox.moe/rj8zvp.gif">ㅤㅤㅤㅤㅤa[tabook](https://loonatic.atabook.org) ㅤㅤㅤㅤ໒꒱
