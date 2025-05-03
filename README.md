@@ -3,15 +3,15 @@
 
 <div id="header" align="center">
 
-![](https://komarev.com/ghpvc/?username=Ioonatic&label=⠀⠀⠀♡⠀⠀⠀&style=plastic&color=FCAFBE)
+![](https://komarev.com/ghpvc/?username=Ioonatic&label=⠀⠀⠀♡⠀⠀⠀&style=plastic&color=F8BB70)
 
-꒰ა  ㅤㅤㅤㅤ<img src="https://files.catbox.moe/6d0zcn.gif"> ㅤㅤㅤㅤ໒꒱
-
-
+  ㅤㅤㅤㅤ<img src="https://files.catbox.moe/6d0zcn.gif"> ㅤㅤㅤㅤ
 
 
 
-<img src="https://files.catbox.moe/h1bd0s.png">
+
+
+<img src="https://files.catbox.moe/shw07k.png">
 
 <div id="header" align="center">
 
@@ -20,4 +20,3 @@
 <div id="header" align="center">
 
 
-  <img src="https://files.catbox.moe/1hkrpi.gif">
