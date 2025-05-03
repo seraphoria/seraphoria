@@ -7,7 +7,7 @@
 ㅤㅤ
 <div id="header" align="center">
 
-<img src="https://64.media.tumblr.com/4eb6a9e30fe69555c157a3bf0a53511c/f20d41ee37cf983f-8e/s400x600/c2a8d761d4fea622c329981c3cf01442b6b62edd.gif">
+---
 
 <div id="header" align="center">
 
