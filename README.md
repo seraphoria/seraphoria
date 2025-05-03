@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
 
-![](https://komarev.com/ghpvc/?username=Ioonatic&label=⠀⠀⠀♡⠀⠀⠀&style=plastic&color=F8BB70)
+![](https://komarev.com/ghpvc/?username=Ioonatic&label=⠀⠀⠀♡⠀⠀⠀&style=plastic&color=F8BB70) <img src="https://files.catbox.moe/6mnrtt.gif">
 ㅤㅤ
 <div id="header" align="center">
 
