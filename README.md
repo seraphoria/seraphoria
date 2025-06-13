@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
 
-![](https://komarev.com/ghpvc/?username=Ioonatic&label=⠀⠀⠀♡⠀⠀⠀&style=plastic&color=F8BB70) <img src="https://64.media.tumblr.com/6661674349234b24d5a909e8da633742/tumblr_inline_msbvj6zNnM1rkldve.gif">
+![](https://komarev.com/ghpvc/?username=Ioonatic&label=⠀⠀⠀♡⠀⠀⠀&style=plastic&color=F5DAE1) <img src="https://64.media.tumblr.com/148c78d9f22d662ce1aa4b9964b6067f/16966a778f4a262c-2b/s75x75_c1/12eb7fdc93e8a286ef3ae4980b22e108f7df07bf.gif">
 ㅤㅤ
 <div id="header" align="center">
 
@@ -12,7 +12,7 @@
 <div id="header" align="center">
 
 
-<img src="https://files.catbox.moe/fg1mi1.gif">
+<img src="https://files.catbox.moe/bbg1lv.png">
 ⠀
 
 ma[tch](https://rentry.co/nwjns)⠀⠀⠀<3[mail](https://rentry.co/lovelystain)⠀⠀⠀ata[book](https://loonatic.atabook.org/)
