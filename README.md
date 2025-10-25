@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
 
-[ata](https://loonatic.atabook.org/) [match1](https://rentry.co/lovegod) [match2](https://rentry.co/nwjns) [lovemail](https://rentry.co/lovelystain) 
+[ata](https://loonatic.atabook.org/)⠀⠀[prns.cc](https://pronouns.cc/@haikaveh)⠀⠀[lovemail](https://rentry.co/lovelystain)⠀⠀[gunslol](https://guns.lol/angelverse)⠀⠀
 
 <div id="header" align="center">
 
