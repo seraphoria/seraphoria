@@ -3,19 +3,6 @@
 
 <div id="header" align="center">
 
-ㅤㅤ
-<div id="header" align="center">
-
-
-
-<div id="header" align="center">
-
-
-
-⠀
-
-<div id="header" align="center">
-
 [<img src="https://files.catbox.moe/px5q2v.png">](https://loonatic.atabook.org/) [<img src="https://files.catbox.moe/9c801z.png">](https://rentry.co/nwjns) [<img src="https://files.catbox.moe/aw5wwx.png">](https://rentry.co/lovelystain)
 
 <div id="header" align="center">
