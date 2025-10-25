@@ -13,8 +13,6 @@
 
 
 
-
-<img src="https://files.catbox.moe/frgxor.gif">
 ⠀
 
 <div id="header" align="center">
